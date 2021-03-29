@@ -1,4 +1,4 @@
-click on green button 
-copy link 
-open android studio 
-click file -> new -> project from version control -> clone
+1- click on green button 
+2- copy link 
+3- open android studio 
+4- click file -> new -> project from version control -> clone
