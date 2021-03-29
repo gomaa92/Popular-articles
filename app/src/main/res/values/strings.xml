@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">PopularArticles</string>
+    <string name="period_days">Most Popular Articles in</string>
+    <string name="ony">One Day</string>
+    <string name="seven">Seven Days</string>
+    <string name="thirty">Thirty Days</string>
+    <string name="Search">Search</string>
+    <string name="published_date">Published date</string>
+    <string name="read_more">Click to read more on website</string>
+    <string name="contentDescriptionArrow">navigate to next screen</string>
+    <string name="contentDescriptionCalender">navigate to next screen</string>
+</resources>

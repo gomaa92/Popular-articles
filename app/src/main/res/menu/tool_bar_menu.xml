@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item android:title="@string/period_days">
+        <menu>
+            <item
+                android:id="@+id/oneDayToolBar"
+                android:title="@string/ony" />
+            <item
+                android:id="@+id/sevenDaysToolBar"
+                android:title="@string/seven" />
+            <item
+                android:id="@+id/thirtyDaysToolBar"
+                android:title="@string/thirty" />
+        </menu>
+    </item>
+    <item
+        android:id="@+id/searchToolBar"
+        android:icon="@drawable/ic_search"
+        android:title="@string/Search"
+        app:actionViewClass="android.widget.SearchView"
+        app:showAsAction="always" />
+</menu>
